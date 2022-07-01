@@ -1,4 +1,3 @@
-Geomatics Engineer
 interested in python 
 
 <!---
